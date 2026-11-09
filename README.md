@@ -20,4 +20,5 @@ login:password
 login2:password2
 #
 Пароли не отправляются в браузерный JavaScript: API отдаёт только login и status.
-<a href="https://pic.maxiol.com/?v=1794264558.1595464501.gsmpanel.jpg&dp=2"><img src="https://pic.maxiol.com/thumbs2/1794264558.1595464501.gsmpanel.jpg" border="0"></a>
+#
+<a href="https://radikal.host/i/jqlRUT"><img src="https://e.radikal.host/2026/11/10/GSM_Panel.jpg" alt="GSM_Panel.jpg" border="0"></a>
