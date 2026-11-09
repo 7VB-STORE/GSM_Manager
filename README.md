@@ -21,12 +21,11 @@ login2:password2
 #
 Пароли не отправляются в браузерный JavaScript: API отдаёт только login и status.
 #
-
-# ⚠️Используйте на свой страх и риск. Авторы не несут ответственности.
-
----
-
 **Сделано с ❤️ для сообщества**
 
 #
 <a href="https://radikal.host/i/jqlRUT"><img src="https://e.radikal.host/2026/11/10/GSM_Panel.jpg" alt="GSM_Panel.jpg" border="0"></a>
+
+# ⚠️Используйте на свой страх и риск. Авторы не несут ответственности.
+
+---
