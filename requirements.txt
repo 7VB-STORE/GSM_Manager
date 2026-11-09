@@ -1,0 +1,8 @@
+Flask==3.1.2
+psutil==7.1.0
+PyAutoGUI==0.9.54
+pyperclip==1.10.0
+pywebview==5.4
+pywin32==311
+pywinauto==0.6.9
+Werkzeug==3.1.9
