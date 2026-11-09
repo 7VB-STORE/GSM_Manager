@@ -1,4 +1,4 @@
-Test Panel gsm_1.0.2
+Test Panel GSM_1.0.2
 #
 Структура:
 app.py
