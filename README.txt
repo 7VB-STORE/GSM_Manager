@@ -20,4 +20,5 @@ login:password
 login2:password2
 
 Пароли не отправляются в браузерный JavaScript: API отдаёт только login и status.
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/9Qs8gtfP/1111.png' border='0' alt='1111'/></a>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  <br> thanks [ IDK , Emil , IgnatS]
+###
